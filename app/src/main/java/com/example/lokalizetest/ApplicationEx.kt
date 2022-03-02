@@ -9,7 +9,7 @@ class ApplicationEx : Application() {
 		super.onCreate()
 		Lokalise.init(this, SDK_TOKEN, PROJECT_ID)
 		Lokalise.isPreRelease = true
-		Lokalise.updateTranslations()
+		Lokalise.updateTranslations() //получение последних переводов (можно вызывать где угодно)
 	}
 
 	companion object {
