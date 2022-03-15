@@ -2,7 +2,8 @@
 <resources>
   <string name="app_name"></string>
   <string name="hello_world"></string>
-  <string name="cabinet"></string>
-  <string name="how_are_you"></string>
+  <string name="cabinet">Kabinett</string>
+  <string name="how_are_you">Wie geht es Ihnen?</string>
   <string name="test_string_1">Prüfzeichenfolge 1</string>
+  <string name="war">Krieg</string>
 </resources>
