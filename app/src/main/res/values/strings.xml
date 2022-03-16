@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">Test Localise</string>
   <string name="hello_world">Привет, мир!</string>
-  <string name="cabinet">Кабинет</string>
+  <string name="cabinet">Кабинет!</string>
   <string name="how_are_you">Как твои дела?</string>
   <string name="test_string_1">Тестовая строка 1</string>
   <string name="war">Военная операция</string>
